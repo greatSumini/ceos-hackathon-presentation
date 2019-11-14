@@ -2,7 +2,7 @@
 
 > reveal.js
 
-for ceos 10th hackathon [Check out the live demo](http://revealjs.com/).
+for ceos 10th hackathon. [Check out the live demo](https://orange-mush.github.io/ceos-hackathon-presentation/).
 
 ### Getting Started
 
